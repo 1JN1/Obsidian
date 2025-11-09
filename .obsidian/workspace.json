@@ -176,6 +176,7 @@
   },
   "active": "4b9cebd151f95d1a",
   "lastOpenFiles": [
+    "java/架构设计/微服务",
     "java/架构设计/DDD领域驱动设计",
     "java/架构设计/系统设计",
     "java/架构设计/设计模式",
@@ -186,7 +187,6 @@
     "java/容器化与部署",
     "java/Spring生态/springsecurity",
     "java/Spring生态/springmvc",
-    "java/Spring生态/springboot",
     "java/未命名.md",
     "欢迎.md"
   ]
