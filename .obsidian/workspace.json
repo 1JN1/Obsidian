@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "653c8aea0a6699b8",
+        "id": "cc092d60b2ae21cd",
         "type": "tabs",
         "children": [
           {
-            "id": "f557bb405401dab2",
+            "id": "ce67b8f5161ef77c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/数据持久层/数据库连接池/未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/数据持久层/数据库连接池/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -179,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f557bb405401dab2",
+  "active": "ce67b8f5161ef77c",
   "lastOpenFiles": [
     "java/数据持久层/数据库连接池/未命名.md",
     "java/Spring生态/spring/阿萨德.md",
