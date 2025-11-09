@@ -176,6 +176,8 @@
   },
   "active": "4b9cebd151f95d1a",
   "lastOpenFiles": [
+    "java/架构设计/设计模式",
+    "java/架构设计",
     "java/容器化与部署/CICD",
     "java/容器化与部署/Kubernetes",
     "java/容器化与部署/Docker",
@@ -185,8 +187,6 @@
     "java/Spring生态/springboot",
     "java/数据持久层/数据库连接池",
     "java/Jvm与性能调优/性能调优",
-    "java/Jvm与性能调优/Jvm",
-    "java/Spring生态",
     "java/未命名.md",
     "欢迎.md"
   ]
