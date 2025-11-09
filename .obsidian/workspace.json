@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce76647c576d7641",
+        "id": "653c8aea0a6699b8",
         "type": "tabs",
         "children": [
           {
-            "id": "bea72f4fd0dd38e5",
+            "id": "f557bb405401dab2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,6 +176,9 @@
   },
   "active": "4b9cebd151f95d1a",
   "lastOpenFiles": [
+    "java/未命名",
+    "java/未命名.base",
+    "java/未命名.md",
     "java",
     "欢迎.md"
   ]
