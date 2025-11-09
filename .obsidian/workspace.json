@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e876a22ad9b562bd",
+        "id": "ce76647c576d7641",
         "type": "tabs",
         "children": [
           {
-            "id": "3fabdd10b680300c",
+            "id": "bea72f4fd0dd38e5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "新标签页"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe7c3061a911dcaa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "965ceba684137b13",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
             }
           }
         ]
@@ -186,11 +170,13 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fb7546abe74c3a7",
+  "active": "4b9cebd151f95d1a",
   "lastOpenFiles": [
+    "java",
     "欢迎.md"
   ]
 }
