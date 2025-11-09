@@ -174,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9cebd151f95d1a",
+  "active": "9fb7546abe74c3a7",
   "lastOpenFiles": [
+    "java/Spring生态/spring/阿萨德.md",
     "java/架构设计/微服务",
     "java/架构设计/DDD领域驱动设计",
     "java/架构设计/系统设计",
@@ -186,7 +187,6 @@
     "java/容器化与部署/Docker",
     "java/容器化与部署",
     "java/Spring生态/springsecurity",
-    "java/Spring生态/springmvc",
     "java/未命名.md",
     "欢迎.md"
   ]
