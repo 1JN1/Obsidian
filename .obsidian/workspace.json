@@ -176,6 +176,10 @@
   },
   "active": "4b9cebd151f95d1a",
   "lastOpenFiles": [
+    "java/容器化与部署/DevOps",
+    "java/容器化与部署/Kubernetes",
+    "java/容器化与部署/Docker",
+    "java/容器化与部署",
     "java/Spring生态/springsecurity",
     "java/Spring生态/springmvc",
     "java/Spring生态/springboot",
@@ -183,10 +187,6 @@
     "java/Jvm与性能调优/性能调优",
     "java/Jvm与性能调优/Jvm",
     "java/Spring生态",
-    "java/常用中间件",
-    "java/数据持久层",
-    "java/Java核心技术",
-    "未命名",
     "java/未命名.md",
     "欢迎.md"
   ]
