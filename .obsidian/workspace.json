@@ -177,6 +177,8 @@
   "active": "4b9cebd151f95d1a",
   "lastOpenFiles": [
     "java/未命名",
+    "java/jvm",
+    "java/并发",
     "java/spring",
     "java/mq",
     "java/mybatis-plus",
@@ -186,7 +188,6 @@
     "java/redis",
     "java/未命名.base",
     "java/未命名.md",
-    "java",
     "欢迎.md"
   ]
 }
